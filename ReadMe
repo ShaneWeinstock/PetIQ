@@ -1,1 +1,4 @@
 This is the home of all projects conducted as a Strategic Business Analyst for PetIQ and VIP.
+
+
+the R package missForest and randomForest were utilized for the imputation of this data.
